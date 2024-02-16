@@ -4,7 +4,7 @@ node_modules
 build
 combined.log
 error.log
-.env
+# .env
 .flaskenv*
 !.env.project
 !.env.vault
@@ -83,7 +83,7 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
+# .env
 .env.development
 .env.production
 .env.staging
